@@ -11,17 +11,17 @@ What this means is far from clear, so I've made an effort to explain it as best 
 
 Imagine two companies that are competing for customers, eg. Tim Hortons and Starbucks, in this example the companies are Red and Blue. There are a certain number of customers around the city and each company's goal is to open their stores closer to customers than the other.
 
-![The customers](example_1.png)
+![The customers](readmeFigures/vg_ex1.jpg)
 
 The game proceeds as follows: first, Red opens up _r_ store(s).
 
-![Red's stores](example_2.png)
+![Red's stores](readmeFigures/vg_ex2.jpg)
 
 The red lines represent the Voroni cells defined by each red store. Each store's Voronoi cell represents the regions on the map that are closest to it rather than other stores.
 
 Next, Blue opens up _b_ store(s).
 
-![Blue's stores](example_3.png)
+![Blue's stores](readmeFigures/vg_ex3.jpg)
 
 Notice that the lines defining the Voronoi cells are re-drawn now and some of the customers that used to be closer to Red's stores are now closer to Blue's store.
 
