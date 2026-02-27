@@ -1,5 +1,5 @@
 # Voronoi Games and Epsilon Nets
-This is a compilation of code I have written for my undergraduate honours project done at the University of Manitoaba. The research is in computational geometry and very math heavy, so this code is primarily for doing initial testing of various algorithms and creating diagrams. The product of this research will eventually be a paper compiling out results, though this is still in the process of being created. Thank you to my advisor Dr. Jimmy Zhu and also Dr. Stephane Durocher for working with me and guiding me through this project.
+This is a compilation of code I have written for my undergraduate honours project done at the University of Manitoba. The research is in computational geometry and very math heavy, so this code is primarily for doing initial testing of various algorithms and creating diagrams. The product of this research will eventually be a paper compiling our results, though this is still in the process of being created. Thank you to my advisor Dr. Jimmy Zhu and also Dr. Stephane Durocher for working with me and guiding me through this project.
 
 My research question is as follows:
 
@@ -63,5 +63,5 @@ This is far more difficult than it seems though, and our focus has primarily bee
 All of this code has been for prototyping so none of it is particularly clean, for the most part there are two types of files, ones with utility functions used everywhere and ones with specific algorithms. There is a lot more code as well, but I am making an effort to only put code that I have cleaned up a bit in here.
 
 ## Dependencies
-- __shapely__: used for "manipulation and analysis of geometric objects in the Catesian plane"
+- __shapely__: used for "manipulation and analysis of geometric objects in the Cartesian plane"
 - __matplotlib__: creating graphics
